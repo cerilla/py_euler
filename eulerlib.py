@@ -70,3 +70,11 @@ def get_all_factor(n, pl):
         n = n / divider
 
     return fl
+
+
+# List tools
+def mult_list_content(nl):
+    total = 1
+    for i in nl:
+        total *= i
+    return total

@@ -1,15 +1,9 @@
 # Problem 008
 # Largest product in a series
 
+from eulerlib import mult_list_content
+
 n = 13   # Digit range to be calculated
-
-
-def mult_list_content(nl):
-    total = 1
-    for i in nl:
-        total *= i
-    return total
-
 
 # Get text string to work at
 dump = ""
