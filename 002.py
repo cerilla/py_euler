@@ -1,6 +1,5 @@
-# Problem #2
-# SUM OF EVEN FIBONACCI NUMBER
-# START: 2016.01.29
+# Problem 002
+# Sum of Even Fibonacci Number
 
 a = 1
 b = 2

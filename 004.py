@@ -1,5 +1,5 @@
-# Problem No. 004
-# BIGGEST PALINDROME
+# Problem 004
+# Largest palindrome product
 
 
 def is_palindrome(x):
