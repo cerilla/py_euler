@@ -59,4 +59,8 @@ docs/_build/
 target/
 
 #Ipython Notebook
+<<<<<<< HEAD
 .ipynb_checkpoints
+=======
+.ipynb_checkpoints
+>>>>>>> 285f3eb... Initial commit
