@@ -5,7 +5,7 @@ n = 100
 square_sum = 0
 sum_square = 0
 
-for i in range(n+1):
+for i in range(n + 1):
     sum_square += i**2
     square_sum += i
 
