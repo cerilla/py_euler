@@ -1,4 +1,4 @@
-A [Project Euler](https://projecteuler.net/) solution repository created by yours truly. All solution is written in Python 3. I use the challenge as a learning ground, so most (if not all) of the code will be badly written. 
+A [Project Euler](https://projecteuler.net/) solution repository created by yours truly. All solution is written in Python 3. I use the challenge as a learning ground, so most (if not all) of the code will be badly written.
 
 If you feel inclined to comment or criticize my work, by all means please do so. I'd love to hear what your take on it.
 

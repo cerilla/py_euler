@@ -1,0 +1,1189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_all_factor	(eulerlib.py)"
+			],
+			[
+				"euler",
+				"eulerlib〔module〕"
+			],
+			[
+				"eul",
+				"eulerlib	module"
+			],
+			[
+				"ge",
+				"get_smallest_factor	(eulerlib.py)"
+			],
+			[
+				"eu",
+				"eulerlib〔module〕"
+			],
+			[
+				"coll",
+				"collatz_chain_num	function"
+			],
+			[
+				"colla",
+				"collatz_next_sequence"
+			],
+			[
+				"mult",
+				"mult_list_content	function"
+			],
+			[
+				"re",
+				"read	function"
+			],
+			[
+				"fac",
+				"factor_list"
+			],
+			[
+				"fact",
+				"factor_occurence	statement"
+			],
+			[
+				"factor",
+				"factor_list"
+			],
+			[
+				"get_",
+				"get_smallest_factor"
+			],
+			[
+				"imp",
+				"import_sieve"
+			],
+			[
+				"impor",
+				"import_sieve	function"
+			],
+			[
+				"gene",
+				"generate_sieve	function"
+			],
+			[
+				"defa",
+				"default_timer"
+			],
+			[
+				"is",
+				"is_palindrome	function"
+			],
+			[
+				"is_p",
+				"is_palindrome	function"
+			],
+			[
+				"get_sm",
+				"get_smallest_factor	function"
+			],
+			[
+				"prime",
+				"prime_list"
+			],
+			[
+				"impo",
+				"import_sieve	function"
+			],
+			[
+				"siev",
+				"sieve_list"
+			],
+			[
+				"readli",
+				"readlines	function"
+			],
+			[
+				"filen",
+				"filename"
+			],
+			[
+				"wri",
+				"write	function"
+			],
+			[
+				"sieve",
+				"sieve_file"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"pri",
+				"prime_sieve"
+			],
+			[
+				"no",
+				"nonprime_list"
+			],
+			[
+				"bd",
+				"bds	border-style"
+			],
+			[
+				"Chain",
+				"chain1"
+			],
+			[
+				"gl",
+				"globalfunc"
+			],
+			[
+				"l",
+				"localfunc"
+			],
+			[
+				"c",
+				"c1"
+			],
+			[
+				"max",
+				"maximize	function"
+			],
+			[
+				"check",
+				"check_input	statement"
+			],
+			[
+				"a",
+				"a_marker	statement"
+			],
+			[
+				"b",
+				"b_marker	statement"
+			],
+			[
+				"firs",
+				"first_index	statement"
+			],
+			[
+				"la",
+				"last_index	statement"
+			],
+			[
+				"first",
+				"first_index	statement"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"u",
+				"upper	function"
+			],
+			[
+				"hel",
+				"hello_world	module"
+			],
+			[
+				"sum",
+				"sum_arg	function"
+			],
+			[
+				"su",
+				"sum_arg	function"
+			],
+			[
+				"mu",
+				"mult_arg	function"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"argumen",
+				"argument"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"v",
+				"v1"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"main",
+				"main	main()"
+			],
+			[
+				"list-",
+				"list-item"
+			],
+			[
+				"lst",
+				"list	list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"m",
+				"m	margin"
+			],
+			[
+				"base",
+				"base_bg"
+			],
+			[
+				"bg",
+				"bg	background"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"menu-",
+				"menu-height"
+			],
+			[
+				"lt",
+				"list-style"
+			],
+			[
+				"me",
+				"menu-height"
+			],
+			[
+				"menu",
+				"menu-height"
+			],
+			[
+				"men",
+				"menu-margin"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"f",
+				"fs	font-style"
+			],
+			[
+				"ls",
+				"list-style-type"
+			],
+			[
+				"bt",
+				"bdt	border-top"
+			],
+			[
+				"en",
+				"end-footer-4"
+			],
+			[
+				"end",
+				"end-footer-3"
+			],
+			[
+				"region-end-f",
+				"region-end-foot-1"
+			],
+			[
+				"font-s",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "010.py",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "commit d9557dea0aa432a416b73941c6355505810935a9\nAuthor: Cerilla <weiss.cerilla@gmail.com>\nDate:   Sun Jan 31 13:09:11 2016 +0700\n\n    Preparation for problem 013\n\ndiff --git a/013.py b/013.py\nnew file mode 100644\nindex 0000000..e69de29\ndiff --git a/etc/013_dump.txt b/etc/013_dump.txt\nnew file mode 100644\nindex 0000000..e3b3e9f\n--- /dev/null\n+++ b/etc/013_dump.txt\n@@ -0,0 +1,100 @@\n+37107287533902102798797998220837590246510135740250\n+46376937677490009712648124896970078050417018260538\n+74324986199524741059474233309513058123726617309629\n+91942213363574161572522430563301811072406154908250\n+23067588207539346171171980310421047513778063246676\n+89261670696623633820136378418383684178734361726757\n+28112879812849979408065481931592621691275889832738\n+44274228917432520321923589422876796487670272189318\n+47451445736001306439091167216856844588711603153276\n+70386486105843025439939619828917593665686757934951\n+62176457141856560629502157223196586755079324193331\n+64906352462741904929101432445813822663347944758178\n+92575867718337217661963751590579239728245598838407\n+58203565325359399008402633568948830189458628227828\n+80181199384826282014278194139940567587151170094390\n+35398664372827112653829987240784473053190104293586\n+86515506006295864861532075273371959191420517255829\n+71693888707715466499115593487603532921714970056938\n+54370070576826684624621495650076471787294438377604\n+53282654108756828443191190634694037855217779295145\n+36123272525000296071075082563815656710885258350721\n+45876576172410976447339110607218265236877223636045\n+17423706905851860660448207621209813287860733969412\n+81142660418086830619328460811191061556940512689692\n+51934325451728388641918047049293215058642563049483\n+62467221648435076201727918039944693004732956340691\n+15732444386908125794514089057706229429197107928209\n+55037687525678773091862540744969844508330393682126\n+18336384825330154686196124348767681297534375946515\n+80386287592878490201521685554828717201219257766954\n+78182833757993103614740356856449095527097864797581\n+16726320100436897842553539920931837441497806860984\n+48403098129077791799088218795327364475675590848030\n+87086987551392711854517078544161852424320693150332\n+59959406895756536782107074926966537676326235447210\n+69793950679652694742597709739166693763042633987085\n+41052684708299085211399427365734116182760315001271\n+65378607361501080857009149939512557028198746004375\n+35829035317434717326932123578154982629742552737307\n+94953759765105305946966067683156574377167401875275\n+88902802571733229619176668713819931811048770190271\n+25267680276078003013678680992525463401061632866526\n+36270218540497705585629946580636237993140746255962\n+24074486908231174977792365466257246923322810917141\n+91430288197103288597806669760892938638285025333403\n+34413065578016127815921815005561868836468420090470\n+23053081172816430487623791969842487255036638784583\n+11487696932154902810424020138335124462181441773470\n+63783299490636259666498587618221225225512486764533\n+67720186971698544312419572409913959008952310058822\n+95548255300263520781532296796249481641953868218774\n+76085327132285723110424803456124867697064507995236\n+37774242535411291684276865538926205024910326572967\n+23701913275725675285653248258265463092207058596522\n+29798860272258331913126375147341994889534765745501\n+18495701454879288984856827726077713721403798879715\n+38298203783031473527721580348144513491373226651381\n+34829543829199918180278916522431027392251122869539\n+40957953066405232632538044100059654939159879593635\n+29746152185502371307642255121183693803580388584903\n+41698116222072977186158236678424689157993532961922\n+62467957194401269043877107275048102390895523597457\n+23189706772547915061505504953922979530901129967519\n+86188088225875314529584099251203829009407770775672\n+11306739708304724483816533873502340845647058077308\n+82959174767140363198008187129011875491310547126581\n+97623331044818386269515456334926366572897563400500\n+42846280183517070527831839425882145521227251250327\n+55121603546981200581762165212827652751691296897789\n+32238195734329339946437501907836945765883352399886\n+75506164965184775180738168837861091527357929701337\n+62177842752192623401942399639168044983993173312731\n+32924185707147349566916674687634660915035914677504\n+99518671430235219628894890102423325116913619626622\n+73267460800591547471830798392868535206946944540724\n+76841822524674417161514036427982273348055556214818\n+97142617910342598647204516893989422179826088076852\n+87783646182799346313767754307809363333018982642090\n+10848802521674670883215120185883543223812876952786\n+71329612474782464538636993009049310363619763878039\n+62184073572399794223406235393808339651327408011116\n+66627891981488087797941876876144230030984490851411\n+60661826293682836764744779239180335110989069790714\n+85786944089552990653640447425576083659976645795096\n+66024396409905389607120198219976047599490197230297\n+64913982680032973156037120041377903785566085089252\n+16730939319872750275468906903707539413042652315011\n+94809377245048795150954100921645863754710598436791\n+78639167021187492431995700641917969777599028300699\n+15368713711936614952811305876380278410754449733078\n+40789923115535562561142322423255033685442488917353\n+44889911501440648020369068063960672322193204149535\n+41503128880339536053299340368006977710650566631954\n+81234880673210146739058568557934581403627822703280\n+82616570773948327592232845941706525094512325230608\n+22918802058777319719839450180888072429661980811197\n+77158542502016545090413245809786882778948721859617\n+72107838435069186155435662884062257473692284509516\n+20849603980134001723930671666823555245252804609722\n+53503534226472524250874054075591789781264330331690\n\\ No newline at end of file\n",
+			"settings":
+			{
+				"buffer_size": 5612,
+				"line_ending": "Unix",
+				"name": "Git Commit Details",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "commit 841858f0491059dad77d86f879bec42905786838\nAuthor: Cerilla <weiss.cerilla@gmail.com>\nDate:   Sun Jan 31 10:04:56 2016 +0700\n\n    Completed problem 009\n\ndiff --git a/009.py b/009.py\nnew file mode 100644\nindex 0000000..9500342\n--- /dev/null\n+++ b/009.py\n@@ -0,0 +1,20 @@\n+# Problem 009\n+# Special Pythagorean triplet\n+\n+\n+def get_pythagoras_triplet(m, n):\n+    a = abs(m**2 - n**2)\n+    b = 2 * m * n\n+    c = m**2 + n**2\n+    return [a, b, c]\n+\n+\n+for n in range(1,25):\n+    for m in range(n+1, 25):\n+        a = get_pythagoras_triplet(m, n)\n+        numsum = a[0] + a[1] + a[2]\n+        if numsum == 1000:\n+            nummult = a[0] * a[1] * a[2]\n+            print(a)\n+            print(nummult)\n+            exit()\n",
+			"settings":
+			{
+				"buffer_size": 723,
+				"line_ending": "Unix",
+				"name": "Git Commit Details",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "commit d9557dea0aa432a416b73941c6355505810935a9\nAuthor: Cerilla <weiss.cerilla@gmail.com>\nDate:   Sun Jan 31 13:09:11 2016 +0700\n\n    Preparation for problem 013\n\ndiff --git a/013.py b/013.py\nnew file mode 100644\nindex 0000000..e69de29\ndiff --git a/etc/013_dump.txt b/etc/013_dump.txt\nnew file mode 100644\nindex 0000000..e3b3e9f\n--- /dev/null\n+++ b/etc/013_dump.txt\n@@ -0,0 +1,100 @@\n+37107287533902102798797998220837590246510135740250\n+46376937677490009712648124896970078050417018260538\n+74324986199524741059474233309513058123726617309629\n+91942213363574161572522430563301811072406154908250\n+23067588207539346171171980310421047513778063246676\n+89261670696623633820136378418383684178734361726757\n+28112879812849979408065481931592621691275889832738\n+44274228917432520321923589422876796487670272189318\n+47451445736001306439091167216856844588711603153276\n+70386486105843025439939619828917593665686757934951\n+62176457141856560629502157223196586755079324193331\n+64906352462741904929101432445813822663347944758178\n+92575867718337217661963751590579239728245598838407\n+58203565325359399008402633568948830189458628227828\n+80181199384826282014278194139940567587151170094390\n+35398664372827112653829987240784473053190104293586\n+86515506006295864861532075273371959191420517255829\n+71693888707715466499115593487603532921714970056938\n+54370070576826684624621495650076471787294438377604\n+53282654108756828443191190634694037855217779295145\n+36123272525000296071075082563815656710885258350721\n+45876576172410976447339110607218265236877223636045\n+17423706905851860660448207621209813287860733969412\n+81142660418086830619328460811191061556940512689692\n+51934325451728388641918047049293215058642563049483\n+62467221648435076201727918039944693004732956340691\n+15732444386908125794514089057706229429197107928209\n+55037687525678773091862540744969844508330393682126\n+18336384825330154686196124348767681297534375946515\n+80386287592878490201521685554828717201219257766954\n+78182833757993103614740356856449095527097864797581\n+16726320100436897842553539920931837441497806860984\n+48403098129077791799088218795327364475675590848030\n+87086987551392711854517078544161852424320693150332\n+59959406895756536782107074926966537676326235447210\n+69793950679652694742597709739166693763042633987085\n+41052684708299085211399427365734116182760315001271\n+65378607361501080857009149939512557028198746004375\n+35829035317434717326932123578154982629742552737307\n+94953759765105305946966067683156574377167401875275\n+88902802571733229619176668713819931811048770190271\n+25267680276078003013678680992525463401061632866526\n+36270218540497705585629946580636237993140746255962\n+24074486908231174977792365466257246923322810917141\n+91430288197103288597806669760892938638285025333403\n+34413065578016127815921815005561868836468420090470\n+23053081172816430487623791969842487255036638784583\n+11487696932154902810424020138335124462181441773470\n+63783299490636259666498587618221225225512486764533\n+67720186971698544312419572409913959008952310058822\n+95548255300263520781532296796249481641953868218774\n+76085327132285723110424803456124867697064507995236\n+37774242535411291684276865538926205024910326572967\n+23701913275725675285653248258265463092207058596522\n+29798860272258331913126375147341994889534765745501\n+18495701454879288984856827726077713721403798879715\n+38298203783031473527721580348144513491373226651381\n+34829543829199918180278916522431027392251122869539\n+40957953066405232632538044100059654939159879593635\n+29746152185502371307642255121183693803580388584903\n+41698116222072977186158236678424689157993532961922\n+62467957194401269043877107275048102390895523597457\n+23189706772547915061505504953922979530901129967519\n+86188088225875314529584099251203829009407770775672\n+11306739708304724483816533873502340845647058077308\n+82959174767140363198008187129011875491310547126581\n+97623331044818386269515456334926366572897563400500\n+42846280183517070527831839425882145521227251250327\n+55121603546981200581762165212827652751691296897789\n+32238195734329339946437501907836945765883352399886\n+75506164965184775180738168837861091527357929701337\n+62177842752192623401942399639168044983993173312731\n+32924185707147349566916674687634660915035914677504\n+99518671430235219628894890102423325116913619626622\n+73267460800591547471830798392868535206946944540724\n+76841822524674417161514036427982273348055556214818\n+97142617910342598647204516893989422179826088076852\n+87783646182799346313767754307809363333018982642090\n+10848802521674670883215120185883543223812876952786\n+71329612474782464538636993009049310363619763878039\n+62184073572399794223406235393808339651327408011116\n+66627891981488087797941876876144230030984490851411\n+60661826293682836764744779239180335110989069790714\n+85786944089552990653640447425576083659976645795096\n+66024396409905389607120198219976047599490197230297\n+64913982680032973156037120041377903785566085089252\n+16730939319872750275468906903707539413042652315011\n+94809377245048795150954100921645863754710598436791\n+78639167021187492431995700641917969777599028300699\n+15368713711936614952811305876380278410754449733078\n+40789923115535562561142322423255033685442488917353\n+44889911501440648020369068063960672322193204149535\n+41503128880339536053299340368006977710650566631954\n+81234880673210146739058568557934581403627822703280\n+82616570773948327592232845941706525094512325230608\n+22918802058777319719839450180888072429661980811197\n+77158542502016545090413245809786882778948721859617\n+72107838435069186155435662884062257473692284509516\n+20849603980134001723930671666823555245252804609722\n+53503534226472524250874054075591789781264330331690\n\\ No newline at end of file\n",
+			"settings":
+			{
+				"buffer_size": 5612,
+				"line_ending": "Unix",
+				"name": "Git Commit Details",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "commit 240feb0764e0c329320614b5b7cc98c2c11b39ea\nAuthor: Cerilla <weiss.cerilla@gmail.com>\nDate:   Sat Jan 30 22:43:31 2016 +0700\n\n    Move list multiplication function to library\n\ndiff --git a/008.py b/008.py\nindex b0cf70c..6b1ccb5 100644\n--- a/008.py\n+++ b/008.py\n@@ -1,15 +1,9 @@\n # Problem 008\n # Largest product in a series\n \n-n = 13   # Digit range to be calculated\n-\n-\n-def mult_list_content(nl):\n-    total = 1\n-    for i in nl:\n-        total *= i\n-    return total\n+from eulerlib import mult_list_content\n \n+n = 13   # Digit range to be calculated\n \n # Get text string to work at\n dump = \"\"\n@@ -37,4 +31,4 @@ for i in range(n, len(dump) + 1 - n):\n     if counter == n:\n         counter = 0\n \n-print(total)\n\\ No newline at end of file\n+print(total)\ndiff --git a/eulerlib.py b/eulerlib.py\nindex 064066c..2ca5727 100644\n--- a/eulerlib.py\n+++ b/eulerlib.py\n@@ -70,3 +70,11 @@ def get_all_factor(n, pl):\n         n = n / divider\n \n     return fl\n+\n+\n+# List tools\n+def mult_list_content(nl):\n+    total = 1\n+    for i in nl:\n+        total *= i\n+    return total\n",
+			"settings":
+			{
+				"buffer_size": 1067,
+				"line_ending": "Unix",
+				"name": "Git Commit Details",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "014.py",
+			"settings":
+			{
+				"buffer_size": 485,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "git log",
+		"selected_items":
+		[
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"docs",
+				"AutoDocstring: Current"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"docst",
+				"AutoDocstring: Current"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"branc",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Gitk"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git comp",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"git",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"linte",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"proje",
+				"Project: Edit"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"",
+				"Anaconda: Display object docs"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"l",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"lore",
+				"LoremIpsum: (5) a bit"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				"File: Revert"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"alignt",
+				"AlignTab"
+			],
+			[
+				"emm",
+				"Emmet: Balance (outward)"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lily/Docs/python/py_euler"
+	],
+	"file_history":
+	[
+		"/home/lily/Docs/python/py_euler/eulerlib.py",
+		"/home/lily/Docs/python/py_euler/py-euler.sublime-project",
+		"/home/lily/Docs/py_euler/test.py",
+		"/home/lily/Docs/py_euler/014.py",
+		"/home/lily/Docs/py_euler/009.py",
+		"/home/lily/Docs/py_euler/006.py",
+		"/home/lily/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/lily/Docs/web_git_tutorial/index.html",
+		"/home/lily/Docs/py_euler/eulerlib.py",
+		"/home/lily/Docs/py_euler/etc/011_dump.txt",
+		"/home/lily/Docs/py_euler/etc/008_dump.txt",
+		"/home/lily/Docs/py_euler/README.md",
+		"/home/lily/Docs/py-euler/007.py",
+		"/home/lily/Docs/py-euler/010.py",
+		"/home/lily/Docs/py-euler/eulerlib.py",
+		"/home/lily/Docs/py-euler/003.py",
+		"/home/lily/Docs/py-euler/004.py",
+		"/home/lily/Docs/py-euler/005.py",
+		"/home/lily/Docs/py-euler/sieve.txt",
+		"/home/lily/Docs/py-euler/001.py",
+		"/home/lily/Docs/py-euler/002.py",
+		"/home/lily/Docs/py-euler/py-euler.sublime-project",
+		"/home/lily/.ssh/id_rsa.pub",
+		"/home/lily/Docs/py-euler/sieve_test.py",
+		"/home/lily/.ssh/id_rsa",
+		"/home/lily/Docs/py-euler/003a.py",
+		"/home/lily/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/lily/Docs/cerilla_uno/sass/variables/_colors.scss",
+		"/home/lily/Docs/cerilla_uno/sass/variables/_size.scss",
+		"/home/lily/Docs/cerilla_uno/sass/base/_forms.scss",
+		"/home/lily/Docs/cerilla_uno/sass/base/_styles.scss",
+		"/home/lily/Docs/cerilla_uno/sass/base/_typography.scss",
+		"/home/lily/Docs/cerilla_uno/sass/variables/_typography.scss",
+		"/home/lily/Docs/cerilla_uno/sass/cerilla-uno.styles.scss",
+		"/home/lily/gyuuki.txt",
+		"/home/lily/Docs/cpp/section2/pointer2.cpp",
+		"/home/lily/Docs/cpp/section2/extern2/file3.h",
+		"/home/lily/Docs/cpp/section2/extern2/file1.cpp",
+		"/home/lily/Docs/cpp/section2/extern2/file2.cpp",
+		"/home/lily/Docs/cpp/section2/extern2/prog1.h",
+		"/home/lily/Docs/cpp/section2/extern2/prog1.cpp",
+		"/home/lily/Docs/cpp/section2/reference.cpp",
+		"/home/lily/Docs/cpp/section2/reference2.cpp",
+		"/home/lily/Docs/cpp/section2/ref-point.cpp",
+		"/home/lily/Docs/cpp/section2/ref-point2.cpp",
+		"/home/lily/Docs/cpp/section2/extern/func_definition.h",
+		"/home/lily/Docs/cpp/section2/extern_test.cpp",
+		"/home/lily/Docs/cpp/section2/extern_val.cpp",
+		"/home/lily/Docs/cpp/section2/extern_test.h",
+		"/home/lily/Docs/cpp/section2/typeconv.cpp",
+		"/home/lily/Docs/cpp/section2/literal1.cpp",
+		"/home/lily/Docs/cpp/section2/literal2.cpp",
+		"/home/lily/Docs/cpp/section2/definit.cpp",
+		"/home/lily/Docs/cpp/section2/init2",
+		"/home/lily/Docs/cpp/section2/init2.cpp",
+		"/home/lily/Docs/cpp/section2/typeconv2.cpp",
+		"/home/lily/Docs/cpp/section2/literal1",
+		"/home/lily/Docs/cpp/section2/ex2_initializer.cpp",
+		"/home/lily/Docs/cpp/section1/Sales_item.cpp",
+		"/home/lily/Docs/cpp/section2/ex_type1.cpp",
+		"/home/lily/Docs/cpp/section2/ex_type_literal.cpp",
+		"/home/lily/Docs/cpp/section2/ex_type_literal2.cpp",
+		"/home/lily/Docs/cpp/cpp.sublime-project",
+		"/home/lily/Docs/cpp/While1",
+		"/home/lily/Docs/py/py-learn.sublime-project",
+		"/home/lily/Docs/py/google-python-exercises/basic/mimic.py",
+		"/home/lily/Docs/py/google-python-exercises/basic/list2.py",
+		"/home/lily/Docs/py/google-python-exercises/basic/list1.py",
+		"/home/lily/Docs/py/google-python-exercises/basic/string2.py",
+		"/home/lily/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/lily/Docs/py/hello_world.py",
+		"/home/lily/Docs/cpp/ex1-hw.cpp",
+		"/home/lily/Docs/cpp/ex1-for.cpp",
+		"/home/lily/Docs/cpp/cpp-primer.sublime-project",
+		"/home/lily/Docs/cerilla_base_1/sass/components/navigation/_menu-block.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/base/_tables.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/components/_main.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/variables/_grid.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/components/_tabs.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/components/_teaser.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/variables/_colors.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/layouts/left_sidebar/left_sidebar.layout.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/variables/_typography.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/components/_navigation.scss",
+		"/home/lily/Docs/simplebox/main.py",
+		"/home/lily/design.py",
+		"/home/lily/Docs/cerilla_base_1/sass/base/_media.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/base/_typography.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/components/_banner.scss",
+		"/home/lily/Docs/cerilla_base_1/sass/components/_gallery.scss",
+		"/home/lily/Templates/template2/sites/all/themes/cerilla_base_1/sass/components/_teaser.scss",
+		"/home/lily/Templates/template2/sites/all/themes/cerilla_base_1/sass/components/_banner.scss",
+		"/home/lily/Templates/template2/sites/all/themes/cerilla_base_1/templates/page.tpl.php",
+		"/home/lily/Templates/template2/sites/all/themes/cerilla_base_1/template.php",
+		"/home/lily/Templates/template2/sites/all/themes/cerilla_base_1/preprocess/page.preprocess.inc",
+		"/home/lily/Templates/template2/sites/all/themes/cerilla_base_1/process/page.process.inc",
+		"/home/lily/Templates/template2/sites/all/themes/omega/omega/templates/system/page.tpl.php",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/layouts/left_sidebar/left_sidebar.tpl.php",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/layouts/left_sidebar/left_sidebar.layout.inc",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/sass/layouts/left_sidebar/left_sidebar.layout.no-query.scss",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/cerilla_base_1.info",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/sass/layouts/left_sidebar/left_sidebar.layout.scss",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/sass/variables/_colors.scss",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/sass/components/_banner.scss",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/layouts/frontpage/frontpage.tpl.php",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/sass/components/_breadcrumb.scss",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/templates/page.tpl.php",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/layouts/frontpage/frontpage.layout.inc",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/cerilla_base_1-subtheme.sublime-project",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/js/cerilla.behaviors.js",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/sass/cerilla.no-query.scss",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/bower.json",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/sass/base/_typography.scss",
+		"/home/lily/Templates/template1/sites/all/themes/cerilla_base_1/config.rb",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/abstractions/_miscFunction.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/components/_search.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/abstractions/_linearGradient.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/abstractions/_card.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/templates/page.tpl.php",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/base/_typography.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/base/_basestyle.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/abstractions/_button.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/layouts/frontpage/frontpage.layout.inc",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/gcoe.info",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/components/_navigation.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/variables/_colors.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/components/_banner.scss",
+		"/home/lily/Templates/gcoe2/sites/all/themes/gcoe/sass/base/_forms.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pep",
+			"len(numdump[0])",
+			"len(numdump)",
+			"filename",
+			"lint",
+			"interpreter",
+			"module_invoke_all",
+			"result",
+			"hida",
+			"struct",
+			"std",
+			"\n    ",
+			" <<",
+			"r1",
+			"i1",
+			"; ",
+			"1",
+			"ui1",
+			"int",
+			": ",
+			"<<",
+			"unsigned",
+			";\n",
+			"    unsigned u1 = 10, u2 = 42;\n\n    std::cout << u1 - u2 << std::endl;\n    std::cout << u2 - u1 << std::endl;\n",
+			"unsigned",
+			"isbn()",
+			"],\n",
+			"alay_test",
+			")\n",
+			"len",
+			";\n",
+			"		border-bottom: 1px lighten($base_color,$lighten - 15) solid;\n",
+			"lighten",
+			"gcoe",
+			"cerilla",
+			"gcoe",
+			"frontpage",
+			"search",
+			"se",
+			"branding",
+			"Ganteng",
+			"test",
+			"node__title",
+			"background",
+			"database",
+			"remember",
+			"#cssmenu",
+			"menu",
+			"*\n",
+			"Listen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dx",
+			"dy",
+			"r",
+			"i",
+			"#main-menu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "010.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5612,
+								5612
+							]
+						],
+						"settings":
+						{
+							"git_root_dir": "/home/lily/Docs/python/py_euler",
+							"syntax": "Packages/Git/syntax/Git Commit View.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								723,
+								723
+							]
+						],
+						"settings":
+						{
+							"git_root_dir": "/home/lily/Docs/python/py_euler",
+							"syntax": "Packages/Git/syntax/Git Commit View.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5612,
+								5612
+							]
+						],
+						"settings":
+						{
+							"git_root_dir": "/home/lily/Docs/python/py_euler",
+							"syntax": "Packages/Git/syntax/Git Commit View.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"git_root_dir": "/home/lily/Docs/python/py_euler",
+							"syntax": "Packages/Git/syntax/Git Commit View.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 469.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "014.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 20.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 90.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 90.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 84.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "py-euler.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"6",
+				"006.py"
+			],
+			[
+				"3",
+				"003.py"
+			],
+			[
+				"",
+				"001.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Docs/py-learn/py-learn.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
